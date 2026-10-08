@@ -13,7 +13,7 @@ Welcome! This repository contains my personal study notes, handwritten practice,
 
 | Level | Content Overview & Audio | Access | Status |
 | :--- | :--- | :---: | :---: |
-| 🟢 **HSK Level 1** | Essential vocabulary, stroke order, grammar & listening audio | [Explore](./HSK-1/) | ✅ Completed |
+| 🟢 **HSK Level 1** | Essential vocabulary, stroke order, grammar & listening audio | [https://github.com/kh-mithu/HSK1-2-3-v3-Complete-Resources/releases/tag/hsk1-v3](./HSK-1/) | ✅ Completed |
 | 🟡 **HSK Level 2** | Expanded vocabulary, sentence patterns, dialogue notes & audio | [Explore](./HSK-2/) | ✅ Completed |
 | 🟠 **HSK Level 3** | Advanced grammar structures, full character practice & audio | [Explore](./HSK-3/) | 🔄 In Progress |
 
