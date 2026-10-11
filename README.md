@@ -53,5 +53,32 @@ Each HSK level folder includes an `audio/` directory. You can listen to them dir
 3. To download any file or audio clip, click on it and select the **Download** or **Raw** button.
 
 ---
+# 📝 HSK 1 Chinese Character Handwriting Practice Worksheets
+
+Welcome to the initial release of the **HSK 1 Hanzi Practice Worksheets**! This resource is designed to help beginners practice writing Chinese characters accurately and step-by-step.
+
+---
+
+## ✨ Features
+* **Full HSK 1 Vocabulary:** Covers all 300 essential HSK 1 Chinese characters/words.
+* **Stroke Order Guidance:** Detailed step-by-step stroke orders shown for every character.
+* **Pinyin Included:** Includes standard Pinyin with tone marks for accurate pronunciation.
+* **Tracing Lines:** Grayed-out characters provided for tracing practice before writing independently.
+* **Standard Tianzige Grid:** Formatted with standard Chinese character practice grids to improve handwriting structure and balance.
+
+---
+
+## 📂 Included Files
+* `HSK_1_Handwriting_Practice_300_Words.pdf` - High-quality printable PDF file.
+
+---
+
+## 🚀 How to Use
+1. Download the PDF file from the **Assets** section below.
+2. Print it out or open it in your tablet note-taking app (e.g., GoodNotes, Notability).
+3. Follow the stroke order provided on the top line to practice tracing and writing each character step-by-step.
+
+---
+
 
 ⭐️ *If you find these study notes and audio resources helpful, please consider giving this repository a star!*
